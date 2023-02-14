@@ -35,6 +35,9 @@ public class NewJourney
 		System.out.println("");
 		System.out.println("");
 		System.out.println("<<<<<<<<<<<===================>>>>>>>>>>");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("<<<<<<<<<<<===================>>>>>>>>>>");
 		B2.addQuantity(9);
 	    System.out.println("AFTER ADD QUANTITYY");
 		B2.showDetails();
